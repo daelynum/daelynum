@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Vladimir
-- 👀 I’m interested in programming
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning python
-
