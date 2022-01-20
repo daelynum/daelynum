@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a student in GeekBrains university and curently interesting in
+## Hi there 👋 I'm a student in GeekBrains university and curently interesting and learning
 
 **Back-end**
 
