@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a student in GeekBrains university and curently interesting in
+## Hi there 👋 I'm a junior Python developer and curently interesting in
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
